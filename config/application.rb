@@ -21,3 +21,4 @@ module Pinteresting
     # config.i18n.default_locale = :de
   end
 end
+require config.assets.initialize_on_precompile = false
